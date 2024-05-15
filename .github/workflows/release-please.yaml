@@ -14,8 +14,9 @@ jobs:
         with:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.PRIVATE_KEY }}
-      - uses: googleapis/release-please-action@v4
+      - uses: googleapis/release-please-action@v3.1.2
         with:
           token: ${{ steps.generate_token.outputs.token }}
           release-type: simple
-          skip-github-pull-request: true
+          command: github-release
+          # skip-github-pull-request: true
