@@ -18,3 +18,4 @@ jobs:
         with:
           token: ${{ steps.generate_token.outputs.token }}
           release-type: simple
+          skip-github-pull-request: true
