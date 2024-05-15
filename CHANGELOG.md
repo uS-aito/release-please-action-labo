@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/uS-aito/release-please-action-labo/compare/v1.0.0...v1.1.0) (2024-05-15)
+
+
+### Features
+
+* add fifth comment ([4fec445](https://github.com/uS-aito/release-please-action-labo/commit/4fec4454251e821020a93611a965169e82471d5a))
+
 ## 1.0.0 (2024-05-11)
 
 
