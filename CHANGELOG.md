@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/uS-aito/release-please-action-labo/compare/v1.5.0...v2.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* a new breaking change is added
+
+### Features
+
+* add new breaking change ([5c48933](https://github.com/uS-aito/release-please-action-labo/commit/5c489337b6364ab780a3f43a09357486da9a2520))
+
 ## [1.5.0](https://github.com/uS-aito/release-please-action-labo/compare/v1.4.0...v1.5.0) (2024-05-15)
 
 
