@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.0](https://github.com/uS-aito/release-please-action-labo/compare/v2.0.0...v3.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* add breaking change 3
+
+### Features
+
+* add breaking change ([52f49a8](https://github.com/uS-aito/release-please-action-labo/commit/52f49a8f799de10d47de0cbe836c182a4d1e7ef4))
+* add feat4 ([d2a745b](https://github.com/uS-aito/release-please-action-labo/commit/d2a745b918730499435b8f9bac955550bbd0fad6))
+
 ## [2.0.0](https://github.com/uS-aito/release-please-action-labo/compare/v1.5.0...v2.0.0) (2024-05-15)
 
 
